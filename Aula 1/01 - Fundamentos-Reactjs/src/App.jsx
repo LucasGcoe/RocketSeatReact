@@ -10,7 +10,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: 'http://github.com/RomuloHFG.png',
+      avatarUrl: 'http://github.com/LucasGcoe.png',
       name: 'Rômulo Henrique',
       role: "FullStack Developer"
     },
@@ -25,8 +25,8 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'http://github.com/Gaabezk.png',
-      name: 'Gabriel Fernandes',
+      avatarUrl: 'http://github.com/RomuloHFG.png',
+      name: 'Romulo Henrique',
       role: "fullstack development instructor"
     },
     content: [
