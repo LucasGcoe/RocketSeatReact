@@ -12,8 +12,8 @@ const posts: PostType[] = [
   {
     id: 1,
     author: {
-      avatarUrl: 'http://github.com/RomuloHFG.png',
-      name: 'Rômulo Henrique',
+      avatarUrl: 'http://github.com/LucasGcoe.png',
+      name: 'Lucas Oliveira',
       role: "FullStack Developer"
     },
     content: [
@@ -27,8 +27,8 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl: 'http://github.com/Gaabezk.png',
-      name: 'Gabriel Fernandes',
+      avatarUrl: 'http://github.com/RomuloHFG.png',
+      name: 'Romulo Henrique',
       role: "fullstack development instructor"
     },
     content: [

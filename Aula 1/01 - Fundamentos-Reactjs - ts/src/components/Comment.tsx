@@ -30,14 +30,14 @@ export default function Comment({ content, onDeleteComment }: CommentProps) {
         <div className={styles.comment}>
             <Avatar 
             hasBorder={false} 
-            src="https://github.com/RomuloHFG.png" 
+            src="https://github.com/LucasGcoe.png" 
             alt="" />
 
             <div className={styles.commentBox}>
                 <div className={styles.commentContent}>
                     <header>
                         <div className={styles.authorAndTime}>
-                            <strong>Rômulo Henrique</strong>
+                            <strong>Lucas Oliveira</strong>
                             <time title='17 de setembro às 17:03' dateTime="2024-09-17 17:03:40"></time>
                         </div>
 
